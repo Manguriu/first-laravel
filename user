@@ -1,0 +1,15 @@
+[90m= [39m[34;4mApp\Models\Listing[39;24m {#4331
+    [34mid[39m: [35m1[39m,
+    [34muser_id[39m: [35m1[39m,
+    [34mtitle[39m: "[32mEst reiciendis omnis minima cumque suscipit commodi quos.[39m",
+    [34mlogo[39m: [36mnull[39m,
+    [34mtags[39m: "[32mnode, djang0, bootstrap[39m",
+    [34mcompany[39m: "[32mJacobi-Hyatt[39m",
+    [34mlocation[39m: "[32mRollinton[39m",
+    [34memail[39m: "[32mqlittel@bahringer.com[39m",
+    [34mwebsite[39m: "[32mhttp://www.bahringer.info/perferendis-iusto-veniam-fugit-numquam-et-veritatis-vel[39m",
+    [34mdescription[39m: "[32mHarum cumque quia ex ipsum id. Voluptates esse quis unde odio dolor. Ut beatae ipsam velit dolor ut autem cumque eaque.[39m",
+    [34mcreated_at[39m: "[32m2023-02-01 18:51:19[39m",
+    [34mupdated_at[39m: "[32m2023-02-01 18:51:19[39m",
+  }
+
